@@ -1,16 +1,20 @@
-# hw_02
+## Building a Simple Calculator App
+Objective: Utilize the knowledge acquired during the initial two weeks to develop a
+fundamental calculator application using Flutter. This task aims to assess your grasp of Dart
+programming, widget composition, and fundamental user engagement with the core
+principles.
 
-A new Flutter project.
+Requirements:
 
-## Getting Started
+• Implement a UI with number buttons (0-9), arithmetic operators (+, -, *, /), and a
+display area.
 
-This project is a starting point for a Flutter application.
+• Allow users to enter numbers by tapping buttons.
 
-A few resources to get you started if this is your first Flutter project:
+• Enable basic arithmetic operations: addition, subtraction, multiplication, and
+division.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Display the calculated result in the display area.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• The app should be able to handle simple calculations with two operands and one
+operator.
